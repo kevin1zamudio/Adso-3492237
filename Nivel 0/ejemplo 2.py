@@ -12,4 +12,4 @@ salarioTotal = salarioBruto - descuento
 
 print("El salario bruto es: ", salarioBruto)
 print("El descuento que le hace a su salario da: ", descuento)
-print("El salario total es: ", salarioTotal)
+print("El salario total es: ", salarioTotal) 
